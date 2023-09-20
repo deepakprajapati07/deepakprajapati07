@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
     Email - deepakpk756@gmail.com
-    Linkedin - in/deepak-kumar-prajapati-227771212
+    Linkedin - [in/deepak-kumar-prajapati-227771212](https://www.linkedin.com/in/deepak-kumar-prajapati-227771212)
 
 <!---
 deepakprajapati01/deepakprajapati01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
