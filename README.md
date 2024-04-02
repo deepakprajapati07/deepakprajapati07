@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak Kumar Prajapati
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning DSA, Java, C++, Python & ML
+- 🌱 I’m currently learning DSA, Java, Python, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
     Email - deepakpk756@gmail.com
